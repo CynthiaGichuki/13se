@@ -9,7 +9,7 @@
 <body>
     <!-- start header div -->
     <div id="header">
-        <h3>CYNTHIA'S STATION> Reset Password</h3>
+        <h3>BLUE COLLAR JOBS> Reset Password</h3>
     </div>
     <!-- end header div -->  
       
